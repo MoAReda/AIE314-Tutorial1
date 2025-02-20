@@ -16,7 +16,7 @@ This project involves preprocessing unstructured data from various document type
 
 2. Place the document you want to analyze in the same folder as the code file.
 
-3. In the code, find the section labeled **Example Usage** (around line 103). Update the `file_path` variable (line 105) with the name of your document. Then, modify the `question` variable (line 131) with the question you want to ask.
+3. In the code, find the section labeled **Example Usage** (around line 115). Update the `file_path` variable (line 117) with the name of your document. Then, modify the `question` variable (line 143) with the question you want to ask.
 
 4. Run the code to see the results.
 
